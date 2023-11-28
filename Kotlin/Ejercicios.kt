@@ -113,7 +113,6 @@ fun main4() {
 }
 
 
-
 /* 2.Calcular la energía cinética de un objeto. Si la masa es m = 12 kg y la velocidad es v= 3 m/s, imprime el resultado con solo 2 decimales,
 la fórmula de la energía cinética es: Ec= 1/2 * m * v² */
 
