@@ -1,1 +1,1 @@
--> POO
+Ejercicios con Kotlin.
