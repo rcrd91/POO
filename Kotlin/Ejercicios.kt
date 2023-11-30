@@ -23,7 +23,6 @@ fun main0() {
 }
 
 
-
 /* Diseñar un programa que pida un número real al usuario -por teclado- y a continuación lo muestre. */
 
 fun main1() {
